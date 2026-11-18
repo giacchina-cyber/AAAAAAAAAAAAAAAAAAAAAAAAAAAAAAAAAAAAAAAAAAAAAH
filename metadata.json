@@ -1,0 +1,6 @@
+{
+  "name": "US Coast-to-Coast 3D Highway Simulator",
+  "description": "3rd-person 3D travel simulator driving across the United States along real-life highway GPS routes with dynamic ribbon highway, realistic physics, day/night cycles, and landmark waypoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
